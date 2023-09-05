@@ -1,4 +1,4 @@
-# Java Swing Project
+# Java AWT Project
 
 This college Java project is created using SQL and Java, featuring email sending capabilities.
 
