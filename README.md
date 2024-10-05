@@ -1,6 +1,6 @@
-# Java AWT Project
+# Real Estate Management System in Java
 
-This college Java project is created using SQL and Java, featuring email sending capabilities.
+This project is created using SQL and Java, featuring email sending capabilities.
 
 ## Image Showcase
 
